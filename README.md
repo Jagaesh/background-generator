@@ -1,6 +1,6 @@
 # Background Generator
 
-A simple and interactive CSS gradient [background generator](https://jagaesh.github.io/RoboFriends) built with vanilla JavaScript.
+A simple and interactive CSS gradient [Background Generator](https://jagaesh.github.io/background-generator) built with vanilla JavaScript.
 
 ## Preview
 
