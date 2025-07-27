@@ -16,7 +16,7 @@ A simple and interactive CSS gradient background generator built with vanilla Ja
 
 ## 📷 Preview
 
-![Screenshot of Background Generator](https://github.com/Jagaesh/background-generator/screenshot.png)
+![Screenshot of Background Generator](https://github.com/Jagaesh/background-generator/blob/main/screenshot.png)
 
 ## 📁 Getting Started
 
