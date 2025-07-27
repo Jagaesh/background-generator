@@ -1,18 +1,18 @@
-# 🎨 Background Generator
+# Background Generator
 
-A simple and interactive CSS gradient background generator built with vanilla JavaScript.
+A simple and interactive CSS gradient [background generator](https://jagaesh.github.io/RoboFriends) built with vanilla JavaScript.
 
-## 📷 Preview
+## Preview
 
 ![Screenshot of Background Generator](https://github.com/Jagaesh/background-generator/blob/main/preview.png)
 
-## 🚀 How It Works
+## How It Works
 
 1. Pick two colors using the color inputs.
 2. Watch the background update in real time.
 3. Copy the generated CSS to use in your own project.
 
-## 📁 Getting Started
+## Getting Started
 
 Simply clone the repo and open `index.html` in your browser:
 
