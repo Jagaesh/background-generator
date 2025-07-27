@@ -8,12 +8,6 @@ A simple and interactive CSS gradient background generator built with vanilla Ja
 2. Watch the background update in real time.
 3. Copy the generated CSS to use in your own project.
 
-## 💡 Tech Stack
-
-- HTML
-- CSS
-- JavaScript (Vanilla)
-
 ## 📷 Preview
 
 ![Screenshot of Background Generator](https://github.com/Jagaesh/background-generator/blob/main/screenshot.png)
