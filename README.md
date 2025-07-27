@@ -2,15 +2,15 @@
 
 A simple and interactive CSS gradient background generator built with vanilla JavaScript.
 
+## 📷 Preview
+
+![Screenshot of Background Generator](https://github.com/Jagaesh/background-generator/blob/main/screenshot.png)
+
 ## 🚀 How It Works
 
 1. Pick two colors using the color inputs.
 2. Watch the background update in real time.
 3. Copy the generated CSS to use in your own project.
-
-## 📷 Preview
-
-![Screenshot of Background Generator](https://github.com/Jagaesh/background-generator/blob/main/screenshot.png)
 
 ## 📁 Getting Started
 
